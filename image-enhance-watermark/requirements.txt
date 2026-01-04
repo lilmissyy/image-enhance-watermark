@@ -1,0 +1,6 @@
+flask==2.3.3
+opencv-python==4.8.0.76
+pywavelets==1.4.1
+numpy==1.26.0
+pillow==10.1.0
+scikit-image==0.22.0
